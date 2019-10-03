@@ -1,0 +1,4 @@
+depends: [ELib]
+name: Axtin
+main: org.axtin.Axtin
+version: 1.0.0
